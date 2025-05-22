@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Santiago de Chile</h3>
 
 
-- 🔭 I’m currently working on [Store with Spring](https://github.com/mrendyg/storeapp_springboot)
+- 🔭 I’m currently working on [Store with Spring and React](https://github.com/mrendyg/storeapp-react-springboot)
 
 - 🌱 I’m currently learning **JSON Web Token**
 
